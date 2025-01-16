@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-demo
+logging:
+  file:
+    path: C:/Users/LENOVO/IdeaProjects/sb2/logs
+server:
+  port: 9001
